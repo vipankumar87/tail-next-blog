@@ -11,6 +11,7 @@ export default function Home() {
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
+              <h1 className="text-3xl font-bold underline">ADFAM</h1>
         </p>
         <div>
           <a
